@@ -28,5 +28,12 @@ functionality, and secure payment processing.
 
 # Address information
 ![Digram img](img/5.png)
+![Digram img](img/7.png)
+![Digram img](img/8.png)
+
+# Admin's order
+Admin can check orders and receive orders, check slips and receive parcel numbers to send to customers.
+
+![Digram img](img/6.png)
 
 # Admin's order
