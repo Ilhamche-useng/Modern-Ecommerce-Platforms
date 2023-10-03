@@ -27,8 +27,10 @@ functionality, and secure payment processing.
 ![Digram img](img/4.png)
 
 # Address information
+Frame complete address information. then choose payment If you choose to pay by transfer, you must upload the slip as shown in the example below.
+
 ![Digram img](img/5.png)
-![Digram img](img/7.png)
+![Digram img](img/10.png)
 ![Digram img](img/8.png)
 
 # Admin's order
@@ -36,4 +38,13 @@ Admin can check orders and receive orders, check slips and receive parcel number
 
 ![Digram img](img/6.png)
 
-# Admin's order
+# All Pools in BPMN
+1. Customer
+2. Admin
+3. Website
+4. Delivery
+
+# BPMN Diagram
+![Digram img](img/9.png)
+
+# Conclution
