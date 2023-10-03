@@ -45,6 +45,8 @@ Admin can check orders and receive orders, check slips and receive parcel number
 4. Delivery
 
 # BPMN Diagram
+The BPMN diagram (Business Process Model and Notation) outlines the various processes and interactions within the e-commerce system, involving customers, admins, the website itself, and delivery processes. It helps visualize the workflow and interactions in the system.
 ![Digram img](img/9.png)
 
 # Conclution
+This ecommerce project involves creating a website for a motorcycle shop using WordPress as the content management system and WooCommerce as the main ecommerce plugin. The main objective of the website is to provide customers with a convenient platform to browse, select and order motorcycle products online.
