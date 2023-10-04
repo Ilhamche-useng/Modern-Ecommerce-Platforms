@@ -6,17 +6,15 @@ This project involves creating an e-commerce website for motorcycle shop The web
 WooCommerce plugin. The platform will allow customers to conveniently browse, select and order online.
 
 # The main plugins that I use
-- WooCommerce
-- PDF Invoices & Packing Slips for WooCommerce
-- PeproDev WooCommerce Receipt Uploader
-
-# Software and Tools Used
-- Laragon: is utilized as our local development environment, providing a convenient platform for building and testing  E-Commerce
-- WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
 - WooCommerce: is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart 
 functionality, and secure payment processing.
 - PDF Invoices & Packing Slips for WooCommerce: is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
 - PeproDev WooCommerce Receipt Uploader: Used for uploading receipts for any payment method in WooCommerce. The customer uploads the receipt (image/pdf) and the store manager manually approves/rejects it.
+
+# Software
+- Laragon: is utilized as our local development environment, providing a convenient platform for building and testing  E-Commerce
+- WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
+- Visual Paradigm: Visual Paradigm is a versatile tool used in various industries for software development and system design. It can be particularly helpful for creating visual documentation, improving communication among team members, and ensuring that software projects are well-structured and well-documented.
 
 # Website page
 ![Digram img](img/1.png)
