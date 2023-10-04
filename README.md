@@ -35,8 +35,13 @@ Frame complete address information. then choose payment If you choose to pay by 
 
 # Admin's order
 Admin can check orders and receive orders, check slips and receive parcel numbers to send to customers.
-
 ![Digram img](img/6.png)
+
+# Add product
+![Digram img](img/11.png)
+
+# All product
+![Digram img](img/12.png)
 
 # All Pools in BPMN
 1. Customer
