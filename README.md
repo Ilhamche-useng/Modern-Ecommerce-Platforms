@@ -41,16 +41,6 @@ Admin can check orders and receive orders, check slips and receive parcel number
 # All product
 ![Digram img](img/12.png)
 
-# All Pools in BPMN
-1. Customer
-2. Admin
-3. Website
-4. Delivery
-
-# BPMN Diagram
-The BPMN diagram (Business Process Model and Notation) outlines the various processes and interactions within the e-commerce system, involving customers, admins, the website itself, and delivery processes. It helps visualize the workflow and interactions in the system.
-![Digram img](img/9.png)
-
 # Customer
 The customer begins by selecting products to add to the cart. and can go back and select again If you have received the product you want It's the address information frame. Choose payment and press order.
 ![Digram img](img/13.png)
@@ -75,6 +65,16 @@ The customer begins by selecting products to add to the cart. and can go back an
 -Ext is to enter data into the system.
 -And the product will be delivered to the customer within at least approximately 3 days (if payment is made on delivery, we can wait to pay the shipping cost)
 ![Digram img](img/16.png)
+
+# All Pools in BPMN
+1. Customer
+2. Admin
+3. Website
+4. Delivery
+
+# BPMN Diagram
+The BPMN diagram (Business Process Model and Notation) outlines the various processes and interactions within the e-commerce system, involving customers, admins, the website itself, and delivery processes. It helps visualize the workflow and interactions in the system.
+![Digram img](img/9.png)
 
 # Conclution
 This ecommerce project involves creating a website for a motorcycle shop using WordPress as the content management system and WooCommerce as the main ecommerce plugin. The main objective of the website is to provide customers with a convenient platform to browse, select and order motorcycle products online.
