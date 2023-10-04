@@ -45,13 +45,13 @@ Admin can check orders and receive orders, check slips and receive parcel number
 The customer begins by selecting products to add to the cart. and can go back and select again If you have received the product you want It's the address information frame. Choose payment and press order.
 ![Digram img](img/13.png)
 
-# Admin
+# Website
 - Start form the first that is product information is that can make customer choes it.
 - Second is taking customer order before the data go to backend.
 - Third is taking slip from customer who choes transfer before the data go to backend.
 ![Digram img](img/14.png)
 
-# Website
+# Admin 
 -Correct gataway: when admin check correctness about payment. If correct, It will go to Check Stock process. If not correct, It will cancel the order.
 
 -The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
